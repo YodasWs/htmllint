@@ -19,3 +19,7 @@ package-lock.json
 
 # mac
 .DS_Store
+
+# vim
+*.swp
+*~
