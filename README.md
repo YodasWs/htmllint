@@ -1,7 +1,6 @@
-htmllint
-========
+\@yodasws/htmllint [![npm version](http://img.shields.io/npm/v/@yodasws/htmllint.svg?style=flat-square)](https://npmjs.org/package/@yodasws/htmllint)
+==================
 
-[![npm version](http://img.shields.io/npm/v/@yodasws/htmllint.svg?style=flat-square)](https://npmjs.org/package/@yodasws/htmllint)
 [![license](http://img.shields.io/npm/l/@yodasws/htmllint.svg?style=flat-square)](https://npmjs.org/package/@yodasws/htmllint)
 [![dependencies](http://img.shields.io/david/yodasws/htmllint.svg?style=flat-square)](https://david-dm.org/yodasws/htmllint)
 [![devDependencies](http://img.shields.io/david/dev/yodasws/htmllint.svg?style=flat-square)](https://david-dm.org/yodasws/htmllint)

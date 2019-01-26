@@ -3,7 +3,7 @@
 	  "Sam Grundman <sam+github@yodas.ws>"
   ],
   "name": "@yodasws/htmllint",
-  "version": "0.7.3-r1",
+  "version": "0.7.3-r2",
   "description": "An unofficial html5 linter.",
   "repository": {
     "type": "git",
