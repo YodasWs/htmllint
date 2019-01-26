@@ -1,6 +1,9 @@
 {
-  "name": "htmllint",
-  "version": "0.7.2",
+  "author": [
+	  "Sam Grundman <sam+github@yodas.ws>"
+  ],
+  "name": "@yodasws/htmllint",
+  "version": "0.7.3-r1",
   "description": "An unofficial html5 linter.",
   "repository": {
     "type": "git",
@@ -13,6 +16,13 @@
     "htmllint"
   ],
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YodasWs/htmllint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YodasWs/htmllint/issues"
+  },
   "scripts": {
     "test": "./node_modules/gulp/bin/gulp.js travis",
     "testlocal": "gulp test"
